@@ -73,14 +73,11 @@ The server should return the message
 >> patients/{id}/encounters
 
 ## Authors
-* [Amit Zohar](https://github.com/AmitGZ)
+
 * [Naor Tiran](https://github.com/NaorTIRAM)
-* [Shahar Ben Tov](https://github.com/sbt94)
+
 ## License
 This project is under the [MIT license](https://en.wikipedia.org/wiki/MIT_License)
-
-## Open Server
-send rest request to this link ```http://ruppin2022.herokuapp.com```
 
 ## Class Diagram 
 ![Class Diagram](https://user-images.githubusercontent.com/88660222/155901046-593564d9-c2c4-4792-b87d-98e38758e37b.jpeg)
