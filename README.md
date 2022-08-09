@@ -72,10 +72,6 @@ The server should return the message
 >> patients/{id}/route \
 >> patients/{id}/encounters
 
-## Authors
-
-* [Naor Tiran](https://github.com/NaorTIRAM)
-
 ## License
 This project is under the [MIT license](https://en.wikipedia.org/wiki/MIT_License)
 
